@@ -1,0 +1,36 @@
+health_keyword,partner_keyword,partner_category,weight
+digital health,access,Connectivity infrastructure,1
+rural health,access,Connectivity infrastructure,1
+telemedicine,access,Connectivity infrastructure,2
+rural health,broadband,Connectivity infrastructure,1
+telemedicine,broadband,Connectivity infrastructure,2
+telemedicine,connectivity,Connectivity infrastructure,1
+digital health,digital divide,Digital inclusion,1
+health disparities,digital divide,Digital inclusion,2
+health equity,digital divide,Digital inclusion,3
+pandemic,digital divide,Digital inclusion,2
+rural health,digital divide,Digital inclusion,1
+social determinants of health,digital divide,Digital inclusion,1
+telemedicine,digital divide,Digital inclusion,4
+digital health,digital literacy,Digital inclusion,1
+digital health,rural health,Health,1
+digital health,telemedicine,Health,1
+pandemic,digital inclusion,Digital inclusion,1
+rural health,digital literacy,Digital inclusion,1
+pandemic,education,"Sectors, populations and methods",1
+telemedicine,education,"Sectors, populations and methods",1
+health disparities,social participation,Digital inclusion,1
+health disparities,socioeconomic factors,Geographical and social inequality,1
+health equity,rural,Geographical and social inequality,1
+health equity,telemedicine,Health,3
+telemedicine,internet access,Connectivity infrastructure,1
+pandemic,internet use,Digital inclusion,1
+pandemic,online education,"Sectors, populations and methods",1
+pandemic,technology,Connectivity infrastructure,1
+pandemic,telemedicine,Health,1
+social determinants of health,rural,Geographical and social inequality,1
+telemedicine,rural,Geographical and social inequality,4
+rural health,telemedicine,Health,2
+social determinants of health,telemedicine,Health,1
+social determinants of health,veterans,"Sectors, populations and methods",1
+telemedicine,veterans,"Sectors, populations and methods",2

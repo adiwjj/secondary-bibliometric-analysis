@@ -1,0 +1,9 @@
+label	replace by
+accessibility	access
+broadband access	broadband
+covid-19	pandemic
+digital inequality	digital divide
+icts	ict
+information and communication technologies	ict
+rural areas	rural
+telehealth	telemedicine
